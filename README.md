@@ -153,8 +153,9 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors  
-Oussama CHENNAK - [Github](https://github.com/Oussamachennak123)
+## Authors
+Bensouda El Mehdi - [Github](https://github.com/ElMehdi02) / [Twitter](https://twitter.com/el_bensouda)  
+Oussama El Meftahi - [Github](https://github.com/osmmf) / [Twitter](https://twitter.com/osm_mf?s=21&t=t6R6FYFk_GNlVk904R-n3g)
 
 ## License
 Public Domain. No copy write protection. 
